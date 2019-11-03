@@ -2,8 +2,8 @@
   "__parent": "./config.json"
 , "person": {
     "name": {
-      "first": "Tomas"
-    , "last": "Baltrushaitis"
+      "first": "Travis"
+    , "last": "Blanton"
     , "full": "@{./last} @{./first}"
     }
   , "nick": "Tom&acute;AS"
@@ -22,39 +22,25 @@
     , "citizenship": "Ukrainian"
     }
   , "home": {
-      "pos-prefix": "full-stack"
-    , "pos-title": "engineer"
-    , "pos-tags": "#high #skilled #experienced #guru"
+      "pos-prefix": "Professional"
+    , "pos-title": "Business Intelligence Analyst"
     }
   , "socials": {
       "li": {
         "name": "linkedin"
       , "title": "Linkedin profile"
       , "icon": "fab fa-linkedin"
-      , "url": "http://bit.ly/tomas-in"
+      , "url": "https://www.linkedin.com/in/tdblanton3/"
       }
     , "git": {
         "name": "git"
       , "title": "Github account"
       , "icon": "fab fa-github"
-      , "url": "http://bit.ly/tomas-git"
+      , "url": "???"
       }
-    , "bb": {
-        "name": "bitbucket"
-      , "title": "BitBucket repos"
-      , "icon": "fab fa-bitbucket"
-      , "url": "http://bit.ly/tomas-bb"
-      }
-    , "docker": {
-        "name": "dockerhub"
-      , "title": "Docker Hub"
-      , "icon": "fab fa-docker"
-      , "url": "http://bit.ly/tomas-hub"
-      }
-    }
   , "contacts": {
-      "cell": "KzM4MCg2NykgNzgtemVyby0zMS0xOA=="
-    , "email": "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+      "cell": "(972) 207-7941"
+    , "email": "tdblanton3@gmail.com"
     }
   }
 }
