@@ -7,15 +7,15 @@
     , "full": "@{./last} @{./first}"
     }
   , "nick": "Tom&acute;AS"
-  , "abbr": "tbaltrushaitis"
+  , "abbr": "tdblanton3"
   , "email": "@{./abbr}@gmail.com"
-  , "url":   "http://bit.ly/tomascv"
+  , "url":   "https://www.linkedin.com/in/tdblanton3/"
   , "bio": {
-      "birth": "October &apos;82"
+      "birth": "July &apos;93"
     , "location": {
-        "country": "Ukraine"
-      , "city": "Kyiv"
-      , "full": "@{./country}, @{./city}"
+        "state": "Texas"
+      , "city": "Frisco"
+      , "full": "@{./city}, @{./state}"
       , "lat": 50.436336
       , "lng": 30.488619
       }
